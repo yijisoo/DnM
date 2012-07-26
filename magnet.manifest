@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: edu.gatech.isye.lhci.MagnetProject
+Class-Path: piccolox.jar piccolo.jar
+Created-By: Ji Soo Yi
